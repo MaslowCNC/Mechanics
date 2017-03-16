@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="4.469339278143346in" height="6.209366868789381in"
+ viewBox="0 0 4.469339278143346 6.209366868789381"
+ xmlns="http://www.w3.org/2000/svg" version="1.1"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>Output from Flights of Ideas SVG Sketchup Plugin</desc>
+
+  <path id="face0-cut"
+ style="fill:none;stroke:#0000FF;stroke-width:.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+        d="M 1.64893795267742e-07,4.1714215896571405 L 8.9466991542303e-14,6.209366868789291 L 4.469339278143171,5.011811018510122 L 4.469339278143257,1.2499412833030802e-13 L 2.500835343143241,8.9466991542303e-14 L 1.64893795267742e-07,4.1714215896571405 "
+  />
+  <path id="face0-interior"
+ style="fill:none;stroke:#FF0000;stroke-width:.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+        d="M 1.64893795267742e-07,4.1714215896571405 M 8.9466991542303e-14,6.209366868789291 M 4.469339278143171,5.011811018510122 M 4.469339278143257,1.2499412833030802e-13 M 2.500835343143241,8.9466991542303e-14 "
+  />
+  <path id="face0-interior"
+ style="fill:none;stroke:#00FF00;stroke-width:.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+        d="M 1.64893795267742e-07,4.1714215896571405 M 8.9466991542303e-14,6.209366868789291 M 4.469339278143171,5.011811018510122 M 4.469339278143257,1.2499412833030802e-13 M 2.500835343143241,8.9466991542303e-14 "
+  />
+</svg>
