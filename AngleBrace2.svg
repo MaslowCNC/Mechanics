@@ -1,21 +1,64 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="4.044326488646838in" height="4.126854899307016in"
- viewBox="0 0 4.044326488646838 4.126854899307016"
- xmlns="http://www.w3.org/2000/svg" version="1.1"
- xmlns:xlink="http://www.w3.org/1999/xlink">
-<desc>Output from Flights of Ideas SVG Sketchup Plugin</desc>
-
-  <path id="face0-cut"
- style="fill:none;stroke:#0000FF;stroke-width:.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
-        d="M 4.044326179995817,4.126854899249295 L 4.0443264885891175,0.2828068586419837 L 4.483200769653498e-10,5.7720524263307526e-11 L 5.7720524263307526e-11,1.9733108210351062 L 2.0758222461020455,4.126854899249295 L 4.044326179995817,4.126854899249295 "
-  />
-  <path id="face0-interior"
- style="fill:none;stroke:#FF0000;stroke-width:.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
-        d="M 4.044326179995817,4.126854899249295 M 4.0443264885891175,0.2828068586419837 M 4.483200769653498e-10,5.7720524263307526e-11 M 5.7720524263307526e-11,1.9733108210351062 M 2.0758222461020455,4.126854899249295 "
-  />
-  <path id="face0-interior"
- style="fill:none;stroke:#00FF00;stroke-width:.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
-        d="M 4.044326179995817,4.126854899249295 M 4.0443264885891175,0.2828068586419837 M 4.483200769653498e-10,5.7720524263307526e-11 M 5.7720524263307526e-11,1.9733108210351062 M 2.0758222461020455,4.126854899249295 "
-  />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="4.044326488646838in"
+   height="4.126854899307016in"
+   viewBox="0 0 4.044326488646838 4.126854899307016"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="AngleBrace2.svg">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="664"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="0.63540451"
+     inkscape:cx="181.99468"
+     inkscape:cy="185.70847"
+     inkscape:window-x="20"
+     inkscape:window-y="43"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <desc
+     id="desc4">Output from Flights of Ideas SVG Sketchup Plugin</desc>
+  <path
+     id="face0-cut"
+     style="fill:none;stroke:#0000FF;stroke-width:0.02;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+     d="M 4.044326179995817,4.126854899249295 L 4.0443264885891175,0.2828068586419837 L 4.483200769653498e-10,5.7720524263307526e-11 L 5.7720524263307526e-11,1.9733108210351062 L 2.0758222461020455,4.126854899249295 L 4.044326179995817,4.126854899249295 " />
+  <path
+     id="face0-interior"
+     style="fill:none;stroke:#FF0000;stroke-width:.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+     d="M 4.044326179995817,4.126854899249295 M 4.0443264885891175,0.2828068586419837 M 4.483200769653498e-10,5.7720524263307526e-11 M 5.7720524263307526e-11,1.9733108210351062 M 2.0758222461020455,4.126854899249295 " />
+  <path
+     id="path8"
+     style="fill:none;stroke:#00FF00;stroke-width:.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+     d="M 4.044326179995817,4.126854899249295 M 4.0443264885891175,0.2828068586419837 M 4.483200769653498e-10,5.7720524263307526e-11 M 5.7720524263307526e-11,1.9733108210351062 M 2.0758222461020455,4.126854899249295 " />
 </svg>
