@@ -5,7 +5,7 @@ Frame BOM:
 2  x S-hooks
 2  x Idler Sprockets
 2  x Drive Sprockets
-2  x Motor/Gearbox/Encoder 
+2  x Motor/Gearbox/Encoder (291:1 reduction gearbox with worm gear to prevent back driving motor, 30kg/cm torque, 20 rpm, 12 volts)
 2  x Motor Mounts
 2  x 2.5"x3" U-Bolts
 2  x Chain Brackets
