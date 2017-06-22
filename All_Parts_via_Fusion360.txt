@@ -1,15 +1,23 @@
 It was mentioned that the Autodesk folks might be making a post-processor for MaslowCNC (GC). In preperation for optimization of Fusion360 for use with MaslowCNC I've created and shared a Fusion360 Project that incorporates and extends the 'All_Parts_Laid_Out.svg' document, designed for cutting MaslowCNC from a single sheet of plywood, and hope to continue to update this Fusion360 Project file to allow easier creation of additional MaslowCNCs and to make it easier for folks to begin building and working with Fusion360 to design things to be built with MaslowCNC.  
 
-Currently included are the design sketch, seperate extrusions for each part, and individual contour-cuts for each piece and all holes to be cut. 
+Currently included:
 
-The Project can be found below and can be added to your copy of Fusion360 via download or cloud. Experienced Fusion 360 users/MaslowCNC Developers are welcome to contact me in order to be added as collaborators on this project as admittedly my Fusion 360 experience is low and do not yet have a MaslowCNC built, although that should change within the month. 
+ Updated (6/21/17) Parts Sketch, suitable for cutting all parts from a single piece of Plywood.
+ Seperate 'extrusions' for each part.
+ Individual contour-cuts for each set of parts.
 
-To Be added: More accurate machine settings for all cuts, countersink and roundover cuts for the sled and any other modifications as MaslowCNC evolves, perhaps including laying out the entire Machine via Fusion360 Modeling, but for now it should be a good starting point for anyone using Fusion360 to create a MaslowCNC. 
+To Be added: 
 
+  More accurate machine settings for all cuts
+  Countersink and Roundover cuts for the sled 
+  
+ As MaslowCNC evolves, including a complete layout the entire Machine via Fusion360 Modeling is possible, but for now it should be a good starting point for anyone using Fusion360 to create a MaslowCNC.
 
+Using the link below, you can add this project to your copy of Fusion360 via download or cloud. 
+
+Experienced Fusion 360 users/MaslowCNC Developers are welcome to contact me in order to be added as collaborators on this project as admittedly my Fusion 360 experience is low and do not yet have a MaslowCNC built, although that should change within the month. 
 
 http://a360.co/2sLJASm
-
 
 
 -cheers
