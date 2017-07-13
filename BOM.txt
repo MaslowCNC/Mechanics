@@ -1,16 +1,18 @@
-Frame BOM:
+Maslow - Mechanics: Build of Materials (BOM)
 
-8  x Cup Hooks
-6  x 1.5mm Pullies
-2  x S-hooks
-2  x Idler Sprockets
-2  x Drive Sprockets
-2  x Motor/Gearbox/Encoder (291:1 reduction gearbox with worm gear to prevent back driving motor, 30kg/cm torque, 20 rpm, 12 volts)
-2  x Motor Mounts
-2  x 2.5"x3" U-Bolts
-2  x Chain Brackets
-2  x Chain Bracket Bolts
-4  x Cotter Pins
-25 x Wood Screws
-3M x Stretchy Tensioning Cord
-2  x 11' #25 Roller Chain
+Part Name                Notes                 PartNumber              Source        QTY
+Cup Hook                                       9585T1                  McMaster      8 
+1.5mm Pully                                    3083T14                 McMaster      6
+S-hooks                                        9381T23                 McMaster      2
+Idler Sprocket                                 6663K11                 McMaster      2
+Drive Sprocket                                 2737T2                  McMaster      2
+Motor/Gearbox/Encoder                                                                2
+          (291:1 reduction gearbox with worm gear to prevent back driving motor, 30kg/cm torque, 20 rpm, 12 volts)
+Motor Mount                                                                          2
+2.5"x3" U-Bolt                                 3201T35                 McMaster      2
+Chain Bracket                                                                        2
+Chain Bracket Bolt                                                                   2
+Cotter Pin                                     98335A069               McMaster      4
+Wood Screw                                                                           25
+Stretchy Tensioning Cord                       8858T5                  McMaster      3 Meters
+11' #25 Roller Chain                           6261K171                McMaster      2
