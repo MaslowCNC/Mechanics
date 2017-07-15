@@ -18,24 +18,5 @@ Experienced Fusion 360 users and/or active MaslowCNC Developers are welcome to c
   * More accurate machine settings (Feeds and Speeds) for all paths.
   * Roundover cuts for the Advanced sled, using a V-Bit
 ---  
-### Fusion 360 Customizations/Scripts/Add-On:
-  
-### To be Added:
-   * MaslowCNC's custom Router Bits Tool Definitions for Fusion 360
 
-### Alternative GRBL Post Processor
-
-[Github: GRBL-Post-Processor](https://github.com/Strooom/GRBL-Post-Processor)
-This purports to be a more accurate Fusion360 PostProcessor for GRBL than the one included with Fusion360 
-
-### Dogbone
-  
-[Github: Dogbone](https://github.com/caseycrogers/Dogbone)
-  
-This scripting Add-In will automate the creation of Dogbone Fillets on interior corners, allowing easier parts assembly and preventing cracks common on these angles due to natural expansion and contraction. Dogbone fillets are widely recommended on all CNC Machined plywood interior angles < 90 deg. 
-
-### Part Nester
-  
-[Github: NESTER](https://github.com/tapnair/NESTER)
-  
-This Scripting Add-In helps optimize the layout of parts from any model on a single plane (the work surface) for machining, allowing you to more easily use the 3D modeling in Fusion 360 to display both your completed design, and your machining layout as seperate views. 
+More information: [Fusion360 with MaslowCNC](https://github.com/MaslowCNC/GroundControl/wiki/Fusion360-with-MaslowCNC)
